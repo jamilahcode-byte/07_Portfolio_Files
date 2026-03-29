@@ -1,0 +1,12 @@
+customer_id,name,email,age
+101,john,john@gmail.com,25.0
+102,sara,,30.0
+103,mike,,22.0
+104,lina,lina@gmail.com,
+105,ahmed,,28.0
+106,noah,noah@gmail.com,35.0
+107,maya,,27.0
+108,ali,ali@gmail.com,
+109,zara,,24.0
+110,omar,omar@gmail.com,31.0
+111,,,

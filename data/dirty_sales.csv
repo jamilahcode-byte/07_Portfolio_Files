@@ -1,0 +1,11 @@
+Customer Name,Email,Phone,Order Date,Product,Quantity,Price,Total,Notes
+john smith,john@,555-1234,01/15/24,Product A,2,19.99,39.98,
+JANE DOE,jane@email,555-5678,2024-01-16,Product B,1,29.99,29.99,urgent
+Bob Johnson,bob@email!,555-9012,1/17/24,Product C,3,49.99,149.97,
+alice brown,alice@,555-3456,01-18-2024,Product A,1,19.99,19.99,
+Charlie Wilson,charlie@email,555-7890,19/01/2024,Product D,2,89.99,179.98,,
+,,555-1111,01/20/24,Product B,5,29.99,149.95,
+DAVID Miller,david@email,555-2222,2024.01.21,Product C,2,49.99,99.98,
+emily davis,emily@email!,555-3333,22 Jan 2024,Product A,4,19.99,79.96,
+Frank Thomas,,555-4444,23/01/24,Product D,1,89.99,89.99,
+Grace Lee,grace@email,555-5555,24-Jan-24,Product B,3,29.99,89.97,

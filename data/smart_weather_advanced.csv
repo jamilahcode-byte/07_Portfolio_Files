@@ -1,0 +1,5 @@
+datetime,location,temp_C,temp_F,temp_K,clouds,weather_desc,wind_kmh,advice_en,advice_ar,advice_om
+2026-03-11T13:55:20.199491,"Babille,Oromia,Ethiopia",25.55,69.0,298.7,76.0,Patchy rain nearby,13.95,"Weather: Patchy rain nearby. Temp: 25.6°C. Clouds: 76.0%. Wind: 13.9 km/h.
+Advice: 🙂 Mild temperature; ☁️ High clouds, might rain, carry umbrella","Weather: Patchy rain nearby. Temp: 25.6°C. Clouds: 76.0%. Wind: 13.9 km/h.
+Advice: 🙂 درجة حرارة معتدلة; ☁️ غيوم كثيفة، قد تمطر، احمل مظلة","Weather: Patchy rain nearby. Temp: 25.6°C. Clouds: 76.0%. Wind: 13.9 km/h.
+Advice: 🙂 Hoʼina giddu-galeessa; ☁️ Guutuu cirracha, roobni jiraachu dandaʼa, funyoo qabu"

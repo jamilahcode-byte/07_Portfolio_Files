@@ -1,0 +1,12 @@
+CustomerID,Name,Age,Email,Phone
+1,Kalid, 25, kalid.datacore@gmail.com, +251929221424
+2, Sora, 30, Sara@gmail.com, +25343769472
+3, Miya, 28, Miya@gmail.com, +1 234 567 8902
+4, , , , 
+5, Kiya, 26, ,
+, Cole, 28, , +2 354 679 8065
+2, Sora, 30, Sara@gmail.com, +25343879472 
+3, Miya, 28, Miya@gmail.com, +1 234 567 8902
+6, ALi,,,
+7, , 25,, ,
+8, , ,mad@gmail.com, 
